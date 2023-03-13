@@ -42,7 +42,7 @@ The .logo img class sets the styles for the logo image in the navigation bar. Th
 ### The .menu li a Class
 The .menu li a class sets the styles for the navigation menu links. It sets the text-decoration to none and the color to var(--white), which is white. The text-align is centered, and there is a transition effect added.
 
-## Demo:
+## Demo
 
 https://user-images.githubusercontent.com/8793750/224458679-72dbdae5-b9db-42d6-9037-1a6a031b956a.mov
 
